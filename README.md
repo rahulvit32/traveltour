@@ -19,7 +19,7 @@ You can download it from https://www.wampserver.com/en/download-wampserver-64bit
 3. One it run successfylly (you will be able to see a green colored wamp logo in your taskbar)
 4. You can visit your localhost/folder_name to see the files on your browser.
 5. You need to make databse as shown in demo for succesfully running all the functionalities which are provided in code. (localhost/phpmyadmin)
-6. Also, you need to download php mailer which is integrated in code for contach and forgot password functionality. Visit the link to get the details https://github.com/PHPMailer/PHPMailer
+6. Also, you need to download php mailer which is integrated in code for contact and forgot password functionality. Visit the link to get the details https://github.com/PHPMailer/PHPMailer
 
 ## References
 1. https://www.w3schools.com/php/php_intro.asp
